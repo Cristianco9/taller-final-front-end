@@ -121,7 +121,8 @@ enlace de **Google Drive**:
 > **NOTA**: La carpeta debe tener su nombre completo. Ejemplo: **Danny Lizeth Vasquez**
 
 > **Fecha limite de entrega**: Martes, 30 de Septiembre del 2025 23:59pm.
-**Advertencia**: Taller enviados luego de dicha fecha **No serán calificados**.
+
+> **Advertencia**: Taller enviados luego de dicha fecha **No serán calificados**.
 
 ---
 
