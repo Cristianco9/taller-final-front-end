@@ -124,6 +124,8 @@ enlace de **Google Drive**:
 
 > **Advertencia**: Taller enviados luego de dicha fecha **No serán calificados**.
 
+📌 Este taller integra de manera práctica todo lo aprendido durante el curso y simula un caso real de diseño web.  
+
 ---
 
 ## Calificaciones
@@ -132,6 +134,5 @@ enlace de **Google Drive**:
 
 > https://docs.google.com/spreadsheets/d/1SQi98rv-B9-xAQb5PKP9loNg2zspNtc0pqXsoPBeqjA/edit?usp=sharing
 
-📌 Este taller integra de manera práctica todo lo aprendido durante el curso y simula un caso real de diseño web.  
-
+---
 ---
