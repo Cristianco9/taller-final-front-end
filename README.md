@@ -126,6 +126,12 @@ enlace de **Google Drive**:
 
 ---
 
+## Calificaciones
+
+> En la siguiente hoja de cálculo se encuentran las calificaciones del taller final del curso de maquetación Front-end:
+
+> https://docs.google.com/spreadsheets/d/1SQi98rv-B9-xAQb5PKP9loNg2zspNtc0pqXsoPBeqjA/edit?usp=sharing
+
 📌 Este taller integra de manera práctica todo lo aprendido durante el curso y simula un caso real de diseño web.  
 
 ---
